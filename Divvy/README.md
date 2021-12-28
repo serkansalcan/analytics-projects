@@ -1,5 +1,5 @@
 # Divvy Trips Case Study
-
+![divvy](https://user-images.githubusercontent.com/27378210/147563233-8016d5e5-a4fa-423f-8be0-6bdcbe192653.png)  
 ## Table of Contents
 - [`Introduction`](#introduction)
 - [`Process`](#process)
