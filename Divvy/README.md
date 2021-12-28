@@ -16,8 +16,8 @@
 
 ## Process  
 1. [`Get the dataset`](https://divvy-tripdata.s3.amazonaws.com/index.html)
-2. [`Clean and transform the data`](https://github.com/serkansalcan/analytics-projects/blob/main/Divvy%20Trips/data_cleansing.ipynb)
-3. [`Perform Exploratory Data Analysis`](https://github.com/serkansalcan/analytics-projects/blob/main/Divvy%20Trips/exploratory_data_analysis.ipynb)
+2. [`Clean and transform the data`](https://github.com/serkansalcan/analytics-projects/blob/main/Divvy/data_cleansing.ipynb)
+3. [`Perform Exploratory Data Analysis`](https://github.com/serkansalcan/analytics-projects/blob/main/Divvy/exploratory_data_analysis.ipynb)
 4. [`Create a Tableau Dashboard`](https://public.tableau.com/views/DivvyTrips_16357928926750/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Findings
